@@ -1,0 +1,15 @@
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\bin\Debug\net8.0\GuiaDeComandos.exe
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\bin\Debug\net8.0\GuiaDeComandos.deps.json
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\bin\Debug\net8.0\GuiaDeComandos.runtimeconfig.json
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\bin\Debug\net8.0\GuiaDeComandos.dll
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\bin\Debug\net8.0\GuiaDeComandos.pdb
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.AssemblyInfoInputs.cache
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.AssemblyInfo.cs
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.csproj.CoreCompileInputs.cache
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.sourcelink.json
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.dll
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\refint\GuiaDeComandos.dll
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.pdb
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\GuiaDeComandos.genruntimeconfig.cache
+C:\Users\isard\Desktop\Programacion\BLOC1\Exercicis\GuiaDeComandos\GuiaDeComandos\obj\Debug\net8.0\ref\GuiaDeComandos.dll
